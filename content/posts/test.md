@@ -5,8 +5,6 @@ title: test
 author: Friedrich Nietzsche
 
 ---
-st
-
 test投稿
 
 ![](/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg)
